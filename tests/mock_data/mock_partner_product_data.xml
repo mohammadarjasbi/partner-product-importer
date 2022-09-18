@@ -1,0 +1,61 @@
+<nsx:items>
+    <nsx:item id="2445456">
+        <nsx:category>Jeans</nsx:category>
+        <nsx:description>Bootleg Front Washed</nsx:description>
+        <nsx:images>
+           <nsx:image type="1" url="https://sample.com/img/2445456_Image_1.jpg"/>
+           <nsx:image type="3" url="https://sample.com/img/2445456_Image_3.jpg"/>
+        </nsx:images>
+        <nsx:prices>
+            <nsx:price>
+                <nsx:currency>EUR</nsx:currency>
+                <nsx:value>49.95</nsx:value>
+            </nsx:price>
+            <nsx:price>
+                <nsx:currency>DKK</nsx:currency>
+                <nsx:value>445.60</nsx:value>
+            </nsx:price>
+        </nsx:prices>
+    </nsx:item>
+    <nsx:item id="2445457">
+        <nsx:category>Jacket</nsx:category>
+        <nsx:description>Short Green Jacket</nsx:description>
+        <nsx:images>
+           <nsx:image type="1" url="https://sample.com/img/2445457_Image_1.jpg"/>
+           <nsx:image type="3" url="https://sample.com/img/2445457_Image_3.jpg"/>
+           <nsx:image type="5" url="https://sample.com/img/2445457_Image_5.jpg"/>
+        </nsx:images>
+        <nsx:prices>
+            <nsx:price>
+                <nsx:currency>EUR</nsx:currency>
+                <nsx:value>30.95</nsx:value>
+            </nsx:price>
+            <nsx:price>
+                <nsx:currency>DKK</nsx:currency>
+                <nsx:value>225.60</nsx:value>
+            </nsx:price>
+        </nsx:prices>
+    </nsx:item>
+        <nsx:item id="2445458">
+        <nsx:category>Shirt</nsx:category>
+        <nsx:description>Long White Shirt</nsx:description>
+        <nsx:images>
+           <nsx:image type="3" url="https://sample.com/img/2445458_Image_3.jpg"/>
+           <nsx:image type="8" url="https://sample.com/img/2445458_Image_8.jpg"/>
+        </nsx:images>
+        <nsx:prices>
+            <nsx:price>
+                <nsx:currency>EUR</nsx:currency>
+                <nsx:value>12.95</nsx:value>
+            </nsx:price>
+            <nsx:price>
+                <nsx:currency>DKK</nsx:currency>
+                <nsx:value>82.60</nsx:value>
+            </nsx:price>
+            <nsx:price>
+                <nsx:currency>USD</nsx:currency>
+                <nsx:value>13.60</nsx:value>
+            </nsx:price>
+        </nsx:prices>
+    </nsx:item>
+</nsx:items>
