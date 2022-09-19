@@ -5,7 +5,7 @@ After cloning this repository, enter this command in your terminal to run this p
 ```
 docker compose up
 ```
-You'll see this log-in terminal a few minutes later:
+You'll see this log in terminal a few minutes later:
 ```
 All resources initialized! 🚀
 ```
